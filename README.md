@@ -33,9 +33,14 @@ python todo.py
 
 ```text
 CodeOrbit_To_Do_List_CLI/
+│
 ├── todo.py
-├── tasks.txt
-└── README.md
+├── README.md
+├── .gitignore
+└── screenshots/
+    ├── code.png
+    ├── Successful_operations.png
+    └── File_handling.png
 ```
 
 ## Author
